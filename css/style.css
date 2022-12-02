@@ -1,1 +1,44 @@
 /* Your styles here */
+body {
+  line-height: 1.65;
+  max-width: 31.25em;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.blue {
+  color: #25a2c3;
+  line-height: 1.5;
+  font-family: "monserrat", sans-serif;
+  font-weight: bold;
+}
+header .titolo {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-repeat: ;
+}
+main .notebook {
+  border-radius: 50%;
+  width: 90%;
+}
+main .orangebg {
+  background-color: #f04c2f;
+  color: white;
+}
+footer {
+  background-color: #25a2c3;
+  color: white;
+}
+footer a {
+  color: white;
+}
+footer h2 {
+  font-family: "monserrat", sans-serif;
+  font-weight: bold;
+}
+.imgpc {
+  width: 100vw;
+  border-style: initial;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(139, 139, 139);
+}
