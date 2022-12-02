@@ -1,7 +1,9 @@
 /* Your styles here */
 body {
   line-height: 1.65;
+  width: 100%;
   max-width: 31.25em;
+
   font-family: "Open Sans", sans-serif;
   text-align: center;
 }
@@ -14,11 +16,17 @@ body {
 header .titolo {
   background-image: url(../images/banner.jpg);
   background-size: cover;
-  background-repeat: ;
+}
+
+.ready {
+  background-color: #f04c2f;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
 }
 main .notebook {
   border-radius: 50%;
-  width: 90%;
+  width: 30%;
 }
 main .orangebg {
   background-color: #f04c2f;
