@@ -44,6 +44,7 @@ header .titolo {
   background-image: url(../images/banner.jpg);
   background-size: cover;
   padding-top: 10px;
+  padding-bottom: 50px;
 }
 
 .ready {
@@ -55,6 +56,7 @@ header .titolo {
   height: 40px;
   width: 130px;
 }
+
 .ready span {
   font-weight: bold;
   position: relative;
@@ -115,4 +117,19 @@ img {
   margin: auto;
   margin-top: 50px;
   margin-bottom: 50px;
+}
+h2 {
+  font-size: 2em;
+}
+footer .line {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+  width: 250px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+footer .end {
+  padding-bottom: 70px;
 }
